@@ -38,12 +38,17 @@ public class No_4 {
    System.out.println();
    }
     public static void main(String[] args) {
-     int data[] = {25,7,9,13,3};
-        No_4.tampil(data);
-        No_4.shellsort(data);
-        No_4.tampil(data);
-   System.out.println();
-   System.out.print("Muhammad Isa Nuruddin");
+     System.out.println("Pengurutan Menggunakan ShellSort");
+          int data[] = {25,7,9,13,3};
+        System.out.println("Data Sebelum Diurutkan : ");
+           No_4.tampil(data);
+           No_4.shellsort(data);
+         System.out.println("Data Sesudah Diurutkan : ");
+           No_3.tampil(data);
+        
+           System.out.println();
+            System.out.print("Muhammad Isa NUruddin");
+           
     }
    
 }
