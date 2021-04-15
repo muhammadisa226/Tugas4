@@ -44,7 +44,7 @@ public class No_4 {
            No_4.tampil(data);
            No_4.shellsort(data);
          System.out.println("Data Sesudah Diurutkan : ");
-           No_3.tampil(data);
+           No_4.tampil(data);
         
            System.out.println();
             System.out.print("Muhammad Isa NUruddin");
